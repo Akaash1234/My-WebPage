@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-size: cover
+}
+
+#para {
+    color: white;
+    font-size: 20px;
+    font-family: 'Imbue', serif;
+}
+
+#image1 {
+    border: 10px solid red
+}
